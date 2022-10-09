@@ -73,4 +73,4 @@ function show1() {
 
 ## Author
 
-- Frontend Mentor - [Vijayaragavan](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Vijayaragavan](https://www.frontendmentor.io/profile/vijayaragavankts)
