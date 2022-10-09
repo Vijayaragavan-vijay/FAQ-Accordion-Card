@@ -28,7 +28,7 @@ Desktop view:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion-card-nQIAV9lUZL)
 - Live Site URL: [live site](https://astounding-quokka-4dcf36.netlify.app/)
 
 
