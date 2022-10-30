@@ -44,7 +44,7 @@ Desktop view:
 
 ### What I learned
 
-I have learnt how to position the background image using css by backgroung-position property. And I learnt how to create a dropdown using JaavaScript, applying style from javaScript and so on.
+I have learnt how to position the background image using css by backgroung-position property. And I learnt how to create a dropdown using JavaScript, applying style from javaScript and so on.
 
 
 ```css
